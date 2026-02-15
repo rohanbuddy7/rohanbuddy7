@@ -1,5 +1,5 @@
 # Hey, I'm Rohan  
-📍 India | 🛠️ Android + Web  
+📍 India | 🛠️ Android + iOS + Web  
 
 Building Android + web products.. mostly Kotlin/Compose, Next.js, and Supabase.  
 🛒 [CoStore](https://collaboreto.com/costore) — Link in bio store for creators.
