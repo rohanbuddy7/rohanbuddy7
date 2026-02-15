@@ -1,8 +1,8 @@
 # Hey, I'm Rohan  
 📍 India | 🛠️ Android + Web  
 
-Building Android + web products.. mostly Kotlin/Compose, Next.js, and Supabase.  
-Building 🛒 [CoStore](https://collaboreto.com/costore) : Link in bio store for creators.  
+Building Android + web products — mostly Kotlin/Compose, Next.js, and Supabase.  
+🛒 [CoStore](https://collaboreto.com/costore) — Link in bio store for creators.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
