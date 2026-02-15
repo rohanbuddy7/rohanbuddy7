@@ -1,9 +1,8 @@
 # Hey, I'm Rohan  
 📍 India | 🛠️ Android + iOS + Web  
-
-Core: Android + Flutter · Vibe coding: Web + AI Agents + experiments (Next.js, Supabase, OpenAI)  
-
-Building : [CoStore](https://collaboreto.com/costore) — Link in bio store for creators.
+Core — Android + Flutter  
+Vibe coding — Web + AI Agents + experiments (Next.js, Supabase, OpenAI)  
+Building — [CoStore](https://collaboreto.com/costore) — Link in bio store for creators.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
